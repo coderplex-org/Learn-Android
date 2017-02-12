@@ -13,3 +13,11 @@ Published at [Android Slides](https://fcc-hyd.github.io/Android-Slides/)
 # ToDo
 
 1. Setup Multiplex
+
+# Apps
+
+1. Toast
+2. Activity and Intents
+3. Pass data between Activities
+4. Call
+5. Camera
